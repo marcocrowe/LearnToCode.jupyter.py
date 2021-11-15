@@ -25,7 +25,7 @@ A collection of Jupyter Python notebooks to learn the basics programming with Py
 6. Loops
 7. Arrays
 8. Methods
-9.  Exception Handling
+9. Exception Handling
 10. Methods
 11. Scope
 12. Objects
