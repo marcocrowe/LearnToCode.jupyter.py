@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"ms-python.python",
+		"davidanson.vscode-markdownlint",
+		"ms-toolsai.jupyter",
+		"2gua.rainbow-brackets",
+		"sonarsource.sonarlint-vscode"
+	]
+}
